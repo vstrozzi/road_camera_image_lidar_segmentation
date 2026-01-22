@@ -1,5 +1,5 @@
 # Improving Image Segmentation Using LiDAR Data
-
+![Teaser](utils/camera_and_lidar_comparison.png)
 ## Overview
 
 This project investigates how LiDAR data can be fused with RGB images to improve semantic segmentation in autonomous driving scenarios. We design and evaluate deep learning models under different sensor fusion strategies and compare their performance through a systematic ablation study.
