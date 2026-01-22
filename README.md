@@ -4,6 +4,7 @@
 
 This project investigates how LiDAR data can be fused with RGB images to improve semantic segmentation in autonomous driving scenarios. We design and evaluate deep learning models under different sensor fusion strategies and compare their performance through a systematic ablation study.
 
+ By Virgilio Strozzi and Luca Brodo at École polytechnique, école d'ingénieur (December 2023)
 ## Abstract
 
 Semantic segmentation is a core task in autonomous driving, requiring accurate pixel-level understanding of complex scenes. RGB cameras provide rich visual information but lack depth, while LiDAR sensors offer precise geometric structure with limited semantic detail.
